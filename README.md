@@ -9,7 +9,7 @@ This project implements a **Smart Home Automation System** using the **ATmega32*
 - **Real-time Monitoring**: Displays temperature, light intensity, and fan status on a 16x2 LCD.
 
 ## Project On Proteus
-![image]![Screenshot 2024-10-11 182437](https://github.com/user-attachments/assets/efd56b6f-bf49-4c9b-b543-4d78b84b1bdb)
+![Screenshot 2024-10-11 182437](https://github.com/user-attachments/assets/efd56b6f-bf49-4c9b-b543-4d78b84b1bdb)
 
 ## Software Layers
 - **MCAL**: Drivers for hardware interaction (ADC, PWM, GPIO).
